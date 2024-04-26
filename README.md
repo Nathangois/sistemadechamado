@@ -8,7 +8,7 @@
     4 - Apontar o tempo de desenvolvimento da solução
     5 - Desenvolver uma aplicação qualquer em JAVA. Para ser testada posteriormente.
 
-[Repositório do Sistema](https://github.com/Manoel-DJS/Sistema_de_Gerenciamento_TI)
+[Repositório do Sistema]
 
 ANDRÊEI FERREIRA PESSOA DA SILVA - RA:12723128471
 
@@ -27,4 +27,4 @@ NATHAN ALMEIDA GOIS - RA: 722311425,
 - Remoção de Chamadas cadastradas
 
 ## Em obras
-- Alterações podem surgir
+- 6 dias
